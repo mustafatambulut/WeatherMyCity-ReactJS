@@ -1,0 +1,16 @@
+.main{
+    width: 250px;
+    height: 170px;
+    background-color: #f2f2f2;
+    margin: 0 auto;
+    padding: 20px;
+    display: none;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
